@@ -1,5 +1,5 @@
 import 'package:flutflix/colors.dart';
-import 'package:flutflix/home_screen.dart';
+import 'package:flutflix/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
